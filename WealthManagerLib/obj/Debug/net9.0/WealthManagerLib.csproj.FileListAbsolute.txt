@@ -1,0 +1,12 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\WealthManager\WealthManagerLib\bin\Debug\net9.0\WealthManagerLib.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\WealthManager\WealthManagerLib\bin\Debug\net9.0\WealthManagerLib.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\WealthManager\WealthManagerLib\bin\Debug\net9.0\WealthManagerLib.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\WealthManager\WealthManagerLib\obj\Debug\net9.0\WealthManagerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\WealthManager\WealthManagerLib\obj\Debug\net9.0\WealthManagerLib.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\WealthManager\WealthManagerLib\obj\Debug\net9.0\WealthManagerLib.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\WealthManager\WealthManagerLib\obj\Debug\net9.0\WealthManagerLib.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\WealthManager\WealthManagerLib\obj\Debug\net9.0\WealthManagerLib.sourcelink.json
+C:\Users\pedro\OneDrive\Área de Trabalho\WealthManager\WealthManagerLib\obj\Debug\net9.0\WealthManagerLib.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\WealthManager\WealthManagerLib\obj\Debug\net9.0\refint\WealthManagerLib.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\WealthManager\WealthManagerLib\obj\Debug\net9.0\WealthManagerLib.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\WealthManager\WealthManagerLib\obj\Debug\net9.0\ref\WealthManagerLib.dll
