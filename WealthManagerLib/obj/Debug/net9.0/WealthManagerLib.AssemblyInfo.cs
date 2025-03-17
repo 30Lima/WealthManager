@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WealthManagerLib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b81317bb4c14467b14970ce478b488336d3ca22")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48258810c61ca8861704562c95840028cb2c21d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("WealthManagerLib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WealthManagerLib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
