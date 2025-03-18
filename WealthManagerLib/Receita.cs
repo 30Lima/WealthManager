@@ -4,7 +4,6 @@ namespace WealthManagerLib
     {
         public Receita(string descricao, decimal valor, DateTime data)
             : base(descricao, valor, data) { }
-
         public override void ExibirDetalhes()
         {
             Console.WriteLine($"[+] Receita: {Descricao} - Valor: R${Valor:F2} - Data: {Data.ToShortDateString()}");
