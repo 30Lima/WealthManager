@@ -4,14 +4,12 @@ namespace WealthManagerLib
 {
     public class GerenciadorFinanceiro
     {
-        private List<Transacao> transacoes = new List<Transacao>();
-
+        private readonly List<Transacao> transacoes = new();  // Lista privada e imutável externamente
 
         public void AdicionarTransacao(Transacao transacao)
         {
             transacoes.Add(transacao);
         }
-
 
         public void ExibirTransacoes()
         {
